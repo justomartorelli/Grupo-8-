@@ -1,0 +1,73 @@
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: #d8b4fe;
+}
+
+body{
+    background-color: #1e1e1e;
+    color: white
+}
+#poesia{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #5b3a8a;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.estiloespecial{
+    color:#e9d5ff;
+    font-size: 30px;
+}
+
+header{
+    background-color: #3c2a5e;;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;   
+}
+
+img{
+    width: 700px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 15px;
+}
+
+#fotokite{
+    margin: 20px auto;
+    padding: 10px; 
+    border: 3px solid white;
+    border-radius: 15px;
+    display: block;
+}
+
+footer{
+     background-color: #3c2a5e;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+nav ul{
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+
+nav li{
+    display: inline-block;
+    margin: 0 20px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #c77dff;
+    font-size: 30px;
+}
+
+nav a:hover{
+    color: white;
+}
